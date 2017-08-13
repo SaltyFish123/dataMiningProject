@@ -1,0 +1,2 @@
+D:/The 4th semester/dataMining/spec/asset/detail_preprocessing.data
+D:/The 4th semester/dataMining/spec/asset/preprocessing.data
