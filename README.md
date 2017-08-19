@@ -1,1 +1,3 @@
 # dataMiningProject
+
+In this data mining project, we are asked to design a model to predict the primary stress. And I just use the total vowels list to be the features and the classifier is a decision tree of the sklearn library. I have tried to use the specific prefixes and suffixes to improve the predicting accuracy. However, it doesn't work well. So I just use the original vowels list to be the feature list.
